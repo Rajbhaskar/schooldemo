@@ -10,7 +10,7 @@ export default function PrincipalWelcome() {
             <div className="relative flex-shrink-0">
               <div className="w-64 h-64 rounded-full overflow-hidden border-8 border-[#9ECFD4] shadow-2xl">
                 <img
-                  src="https://images.unsplash.com/photo-1681070909604-f555aa006564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzY2hvb2wlMjBwcmluY2lwYWwlMjBwb3J0cmFpdHxlbnwxfHx8fDE3NjI5NTE0NTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+                  src="https://images.unsplash.com/photo-1627161683077-e34782c24d81?q=80&w=703&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="Principal"
                   className="w-full h-full object-cover"
                 />
@@ -46,7 +46,7 @@ export default function PrincipalWelcome() {
 
               <div className="mt-6">
                 <p className="text-lg font-semibold text-[#016B61]">
-                  Dr. Rajesh Kumar
+                  Dr. Sakshi Sharma
                 </p>
                 <p className="text-[#0F172A]/60 text-sm">
                   Principal, Excel School
